@@ -1,0 +1,24 @@
+{
+  "name": "rhymegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanderzhanni/RhymeGame.git"
+  },
+  "author": "Sander Hanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanderzhanni/RhymeGame/issues"
+  },
+  "homepage": "https://github.com/Sanderzhanni/RhymeGame#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jshint": "^2.10.2"
+  }
+}
